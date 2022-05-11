@@ -1,2 +1,2 @@
 # organization-avatar
-KolciaEngine organization avatar SVG and PNG
+KolciaEngine organization avatar SVG (Inkscape), reference image, and PNG
